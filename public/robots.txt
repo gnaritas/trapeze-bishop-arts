@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /thanks
+Disallow: /404
+
+Sitemap: https://trapeze-bishop-arts-demo.up.railway.app/sitemap.xml

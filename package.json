@@ -1,0 +1,9 @@
+{
+  "name": "trapeze-bishop-arts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trapèze — French bohemian bar & bistro, Bishop Arts, Dallas TX — lane-built static site (template v2)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}

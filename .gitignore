@@ -1,0 +1,5 @@
+node_modules/
+.railway/
+*.log
+shots/
+_serve_shots.js

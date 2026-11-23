@@ -1,0 +1,7 @@
+{
+  "address": "240 W 8th St, Dallas, TX 75208",
+  "lat": 32.7478874,
+  "lon": -96.8263447,
+  "geocode_source": "Nominatim OSM search '240 W 8th St, Dallas, TX' 2026-11-22, result way/473196713 'Trapèze' building-level (TIGER/line import; import-date precision caveat applies)",
+  "cross_check": "card GBP placeid ChIJv2hznlKZToYR74Z-BQyt0zw (maps-embed probe 2026-11-22, card body); OSM node 5344442735 'Trapeze Coffee Roasters' near 473196713 corroborates the block"
+}
