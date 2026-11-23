@@ -231,7 +231,8 @@ footer.site a:hover{color:var(--cream)}
   .mapcell iframe{height:340px}
 }
 @media (max-width:460px){
-  .wrap{padding:0 18px}
+  /* horizontal-only override: must not clobber .hdr's vertical padding (same specificity, later in file eats the longhand) */
+  .wrap{padding-left:18px;padding-right:18px}
   .lede{font-size:1.05rem}
   .bigname{font-size:1.6rem}
   .fields{grid-template-columns:1fr}
